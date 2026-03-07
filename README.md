@@ -44,3 +44,10 @@ items:
       - "&7这是给新手的礼物"
       - "&7祝游戏愉快！"
     slot: 0
+```
+
+## 下载地址
+[[GitHub下载]](https://github.com/MC-anying/NewJoinKit/releases)
+
+## 反馈
+有 BUG / 建议请 [在此反馈](https://github.com/MC-anying/NewJoinKit/issues)
