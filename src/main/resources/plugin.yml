@@ -1,0 +1,19 @@
+name: NewJoinKit
+version: 1.0.0
+main: cn.MCanying.NewJoinKit
+api-version: 1.20
+author: MCanying
+description: 自动给新玩家发放自定义新手礼包
+website: xxxx
+commands:
+  newjoinkit:
+    description: 新手礼包核心命令
+    usage: /<command> [help|info|reload|give|reset|list|test]
+    aliases: [njk, 新手礼包]
+permissions:
+  newjoinkit.admin:
+    description: 管理员权限
+    default: op
+  newjoinkit.use:
+    description: 基础使用权限
+    default: true
