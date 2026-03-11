@@ -49,5 +49,6 @@ items:
 ## 下载地址
 [[GitHub下载]](https://github.com/MC-anying/NewJoinKit/releases)
 
+[[Modrinth下载]](https://modrinth.com/plugin/newjoinkit)
 ## 反馈
 有 BUG / 建议请 [在此反馈](https://github.com/MC-anying/NewJoinKit/issues)
